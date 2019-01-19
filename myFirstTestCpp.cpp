@@ -1,5 +1,8 @@
-// Comment test check
-// This below function will return the size of array of anytype
+/* Comment test check
+   This below function will return the 
+   size of array of anytype
+*/
+
 #include <iostream>
 
 using namespace std;
